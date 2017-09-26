@@ -18,9 +18,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZG7-az-bRD">
-                                <rect key="frame" x="118" y="191" width="126" height="30"/>
+                                <rect key="frame" x="130" y="191" width="103" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="annie's github test"/>
+                                <state key="normal" title="justin's change"/>
                                 <connections>
                                     <action selector="pressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8Wk-WF-UkK"/>
                                 </connections>
